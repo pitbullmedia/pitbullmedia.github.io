@@ -1,0 +1,89 @@
+html {
+  background: url("../../assets/img/pitbullLogo2.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+body {
+  background-color: transparent;
+}
+
+.fas {
+  font-size: 30px;
+  color: white;
+  margin-right: 5px;
+}
+
+.navbar--apple .nav-link {
+  font-size: 16px;
+}
+
+.footer {
+  height: 80px;
+}
+
+div {
+  margin-top: -1px;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark.navbar--apple {
+  margin-bottom: 28px;
+}
+
+.nav-link.active {
+  font-size: 20px;
+}
+
+.nav-link {
+  font-size: 29px;
+  color: rgb(251,247,247);
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background: url("../../assets/img/navbar.png");
+  /*background-size: cover;*/
+  /*background-color: rgba(0,0,0,0.05);*/
+  font-family: 'bleeding_cowboysregular';
+  border-bottom-left-radius: 21px;
+  border-bottom-right-radius: 21px;
+  border-top-left-radius: 21px;
+  border-top-right-radius: 21px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: rgb(118,113,62);
+  /*background: url("../../assets/img/navbar.png");*/
+  font-family: 'bleeding_cowboysregular';
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(47,44,44);
+}
+
+.brand {
+  width: 194px;
+  height: 110px;
+}
+
+.div1 {
+  margin-top: 14px;
+}
+
+.card {
+  background-color: rgba(255,255,255,0.49);
+}
+
+.main1 {
+  margin-top: 5px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.img1 {
+  margin-bottom: 11px;
+}
+

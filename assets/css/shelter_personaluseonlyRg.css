@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'shelter_personaluseonlyRg';
+	src: url(../../assets/fonts/shelter_personaluseonly-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/shelter_personaluseonly-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

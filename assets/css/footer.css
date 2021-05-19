@@ -1,0 +1,26 @@
+#page-container {
+  /*position: relative;*/
+  /*min-height: 100vh;*/
+}
+
+#content-wrap {
+  /*padding-bottom: 2.5rem;*/
+}
+
+.footer-pitbull {
+  background: url("../../assets/img/navbar.png");
+  color: rgb(47,44,44);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 46px;
+}
+
+.footer-pitbull .copyright {
+  text-align: center;
+  padding-top: 19px;
+  /*opacity: 0.3;*/
+  font-size: 13px;
+  margin-bottom: 0;
+}
+
