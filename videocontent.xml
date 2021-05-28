@@ -4,11 +4,11 @@
 
 <Content >
   <item
-    title = "Bip and Bop"
-    description = "Apple test stream"
+    title = "Twister"
+    description = "Twister (1996)"
     hdposterurl = "http://logok.org/wp-content/uploads/2014/04/Apple-Logo-black.png"
     streamformat  =  "hls"
-    url = "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8" />
+    url = "http://168.149.194.222/Movies/Twister%20(1996)/Twister%20(1996)%20.mp4" />
   <item
     title = "Sintel the Movie"
     description = "a short 15-minute fantasy film "
